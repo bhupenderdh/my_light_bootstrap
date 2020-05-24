@@ -1,0 +1,9 @@
+.card-glance i{
+	max-width: 30px
+}
+.card-glance i{
+	text-allign: center
+}
+.table-comments{
+	max-width : 60px
+}
